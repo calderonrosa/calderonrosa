@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=99999&color=F7A1C4&center=true&vCenter=true&repeat=false&width=600&height=60&lines=%F0%9F%8C%B8+Hi%2C+I%27m+Rosa+Calder%C3%B3n+%F0%9F%8C%B8" alt="Hi, I'm Rosa Calderón" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=36&duration=2500&pause=99999&color=F7A1C4&center=true&vCenter=true&repeat=false&width=600&height=60&lines=%F0%9F%8C%B8+Hi%2C+I%27m+Rosa+Calder%C3%B3n+%F0%9F%8C%B8" alt="Hi, I'm Rosa Calderón" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=F2C94C&center=true&vCenter=true&width=500&lines=AI+%26+Business+Analyst+%E2%9C%A8;Making+complex+insights+simple;Bilingual%3A+English+%26+Espa%C3%B1ol+%F0%9F%92%95" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tinos&size=24&pause=1000&color=F2C94C&center=true&vCenter=true&width=500&lines=AI+%26+Business+Analyst+%E2%9C%A8;Making+complex+insights+simple;Bilingual%3A+English+%26+Espa%C3%B1ol+%F0%9F%92%95" alt="Typing intro" />
 </p>
 
 ```python
